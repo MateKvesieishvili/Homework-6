@@ -87,8 +87,6 @@ section{
     border-radius: 10px;
 }
 .card_image{
-    display: flex;
-    justify-content: space-around;
     width: 100%;
     padding: 33px 30px;
 }
